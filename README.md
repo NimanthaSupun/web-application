@@ -29,9 +29,9 @@ This is a sports e-commerce website built with PHP, HTML, CSS, and JavaScript. T
 
 3. Import the database:
 
-- **Create a database named ecommerce_sports.
-- **Import the ecommerce-sports.sql file into the database.
-- **Configure the database connection:
+- Create a database named ecommerce_sports.
+- Import the ecommerce-sports.sql file into the database.
+- Configure the database connection:
 
 Update the database connection details in config/constants.php.
 Start the server:
