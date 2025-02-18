@@ -18,32 +18,8 @@ This is a sports e-commerce website built with PHP, HTML, CSS, and JavaScript. T
 - **Order Management**: Admins can view and manage orders.
 - **User Management**: Admins can manage user accounts.
 
-
 ## Installation
 
 1. Clone the repository:
    ```sh
    git clone https://github.com/nimanthasupun/sports-ecommerce.git
-2. Navigate to the project directory:   
-   cd sports-ecommerce
-
-3. Import the database:
-
-- Create a database named ecommerce_sports.
-- Import the ecommerce-sports.sql file into the database.
-- Configure the database connection:
-
-Update the database connection details in config/constants.php.
-Start the server:
-
-Use a local server environment like XAMPP or WAMP to run the project.
-Usage
-Access the website at http://localhost/sports-ecommerce.
-Access the admin panel at http://localhost/sports-ecommerce/admin.
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-   
